@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Sanjay Dangi
-- 👀 I’m interested in basically nothing
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on anything after discussion
-- 📫 Reach me here -> dcsanjay77@gmail.com 
+# 🏗️ Sanjay Dangi  
+### 🚀 Mechanical Engineer | Researcher | CAD/CAE Enthusiast
 
-<!---
-Dangi110/Dangi110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a graduate student in Mechanical Engineering at Northern Illinois University with hands-on experience in Electrohydrodynamic (EHD) flow research, 3D CAD design, high-voltage ESP systems, and PIV flow visualization.
+
+---
+
+## 🧠 Areas of Interest:
+- 💨 CFD & PIV Flow Analysis  
+- 🔋 Renewable Energy | ESP Design  
+- 🧰 CAD/CAM: SolidWorks, Fusion360  
+- 📊 MATLAB, Python | Data Analysis  
+- ⚙️ FEA: ANSYS, COMSOL  
+- 🧪 Research: Fine Particle Agglomeration, Vortex Dynamics 
