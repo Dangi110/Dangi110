@@ -1,7 +1,7 @@
 # 🏗️ Sanjay Dangi  
 ### 🚀 Mechanical Engineer | Researcher | CAD/CAE Enthusiast
 
-Welcome to my GitHub! I'm a graduate student in Mechanical Engineering at Northern Illinois University with hands-on experience in Electrohydrodynamic (EHD) flow research, 3D CAD design, high-voltage ESP systems, and PIV flow visualization.
+Welcome to my GitHub! I'm a graduate student in Mechanical Engineering at Northern Illinois University with hands-on experience in 3D CAD design, GD&T, high-voltage ESP systems, EHD vortex flow, Thermofluids, Ansys and PIV flow visualization.
 
 ---
 
